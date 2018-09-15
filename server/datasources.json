@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "registro_de_cafeterias",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mongodb"
+  }
+}

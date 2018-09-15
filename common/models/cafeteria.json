@@ -1,0 +1,28 @@
+{
+  "name": "Cafeteria",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "nome": {
+      "type": "string",
+      "required": true
+    },
+    "cidade": {
+      "type": "string",
+      "required": true
+    }
+  },
+
+    "Endereço":{
+      "type":"string",
+      "required": false
+    },
+    
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
